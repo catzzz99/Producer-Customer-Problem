@@ -1,2 +1,2 @@
-# GraphEditor
-Simple graph editor made with Java Swing
+# Producer - Customer
+Simple implementation of producer - customer problem in Java
